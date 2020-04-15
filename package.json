@@ -60,7 +60,7 @@
     "grunt-contrib-concat": "~1.0",
     "grunt-contrib-uglify": "~3.2",
     "hashids": "~1.1",
-    "helmet": "~3.9",
+    "helmet": "~3.21.3",
     "html-entities": "~1.2",
     "jasmine": "^2.8.0",
     "js-yaml": "3.10",
